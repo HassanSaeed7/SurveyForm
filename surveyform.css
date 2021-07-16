@@ -1,0 +1,58 @@
+body{
+background-image: url(https://blackgold.sa/wp-content/uploads/2018/02/2560x1440-blue-abstract-noise-free-website-background-image.jpg);
+opacity: 0.9;
+}
+#header{
+ text-align: center;
+ border: 1px;
+ border-radius: 10px;
+ padding: 5px;
+ color: white;
+}
+#title {
+  font-size: 3.5em;
+  font-family: Verdana;
+}
+#dropdown {
+  width: 100%;
+  margin: auto;
+  border-radius: 5px;
+}
+#survey-form {
+  background-color: lightblue;
+  border-radius: 10px;
+  margin: auto;
+  width: 50%;
+  padding: 2em;
+}
+textarea {
+  border: none;
+  border-radius: 10px;
+  width: 100%;
+  height: 100%
+}
+#submit {
+  display: block;
+  background-color: darkgreen;
+  margin: auto;
+  padding: 10px;
+  width: 100%;
+  border-radius: 20px;
+  color: white;
+}
+#name {
+  width: 100%;
+}
+#email {
+  width: 100%;
+}
+#number {
+  width: 100%;
+}
+#checkbox {
+  display: block;
+}
+input[type=checkbox] {
+    float: left;
+    margin-right: 0.4em;
+}
